@@ -4,11 +4,11 @@
 <p align="left">
 </p>
 <h3 align="left">🚀 About Me</h3>
-
+- 🌍 I'm looking for Software Engineer Intern
 - 🔭 I’m currently working on **AI Integration for Software**
 - 🌱 I’m learning **Deep Learning, NLP, and Full-Stack Development**
 - 💬 Ask me about **AI, Web Development, and Software Engineering**
-- 📫 How to reach me: **[vuhoangtung187@gmail.com](mailto:vuhoangtung187@gmail.com)**
+- 📫 You can contact me via: **[vuhoangtung187@gmail.com](mailto:vuhoangtung187@gmail.com)**
 
 
 <h3 align="left">Languages and Tools:</h3>
