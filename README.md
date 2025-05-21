@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **AI Integration for Software**
 
-- 🌱 I’m learning **Deep Learning, NLP, and Full-Stack Development**
+- 🌱 I’m learning **Deep Learning, Computer Vision, NLP, and Full-Stack Development**
 
 - 💬 Ask me about **AI, Web Development, and Software Engineering**
 
