@@ -3,7 +3,7 @@
 
 <p align="left">
 </p>
-<h3 align="left">🚀 About Me</h3>
+<h3 align="left"> About Me</h3>
 
 - 🔭 I’m currently working on **AI Engineer**
 
@@ -11,7 +11,7 @@
   
 - ⚙️ I am skilled and happy to design FastAPI complex Software Architecture
 
-- 🌱 I’m learning **Deep Learning, Computer Vision, NLP, and Backend Development**
+- 🌱 I’m constantly updating myself on **Deep Learning, Computer Vision, NLP, and Backend Development**
 
 - 💬 Ask me about **AI, Backend Development, and Design Pattern in System**
 
