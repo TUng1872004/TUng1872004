@@ -23,7 +23,7 @@
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank">
     <!-- Django -->
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" alt="Django" title="Django"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/FastAPI.svg" width="40" alt="FastAPI" title="FastAPI"/>
   </a>
   <a href="https://expressjs.com" target="_blank">
     <!-- Express -->
