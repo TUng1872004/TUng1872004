@@ -75,6 +75,10 @@
     <!-- PostgreSQL -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>
   </a>
+  <a href="https://neo4j.com/" target="_blank">
+  <!-- Neo4j -->
+  <img src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" width="40" alt="Neo4j" title="Neo4j"/>
+</a>
 </p>
 
 <!-- DevOps -->
@@ -89,13 +93,29 @@
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" alt="Google Cloud" title="Google Cloud"/>
   </a>
 </p>
-
+<!-- LLM -->
+<h4 align="left">LLM</h4>
+<p align="left">
+  <a href="https://ollama.com/" target="_blank">
+    <!-- Ollama -->
+    <img src="https://ollama.com/public/ollama.png" width="40" alt="Ollama" title="Ollama"/>
+  </a>
+  <a href="https://www.langchain.com/" target="_blank">
+    <!-- LangChain -->
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" alt="LangChain" title="LangChain"/>
+  </a>
+  
+  <a href="https://www.sbert.net/" target="_blank">
+    <!-- SentenceTransformers -->
+    <img src="https://www.sbert.net/_static/logo.png" width="40" alt="SentenceTransformers" title="SentenceTransformers"/>
+  </a>
+</p>
 <!-- AI -->
 <h4 align="left">AI / Data</h4>
 <p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <!-- Python -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" title="Python"/>
+  <a href="https://huggingface.co/" target="_blank">
+    <!-- Hugging Face -->
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" alt="Hugging Face" title="Hugging Face"/>
   </a>
   <a href="https://pytorch.org/" target="_blank">
     <!-- PyTorch -->
@@ -104,10 +124,6 @@
   <a href="https://www.tensorflow.org" target="_blank">
     <!-- TensorFlow -->
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" alt="TensorFlow" title="TensorFlow"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <!-- Scikit-learn -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="Scikit-learn" title="Scikit-learn"/>
   </a>
   <a href="https://opencv.org/" target="_blank">
     <!-- OpenCV -->
