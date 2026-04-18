@@ -5,13 +5,15 @@
 </p>
 <h3 align="left">🚀 About Me</h3>
 
-- 🌍 I'm looking for Software Engineer Intern
+- 🔭 I’m currently working on **AI Engineer**
 
-- 🔭 I’m currently working on **AI Integration for Software**
+- 🤖 I’m have experience with both model training, finetuning and AI Intergration in Software
+  
+- ⚙️ I am skilled and happy to design FastAPI complex Software Architecture
 
 - 🌱 I’m learning **Deep Learning, Computer Vision, NLP, and Backend Development**
 
-- 💬 Ask me about **AI, Web Development, and Software Engineering**
+- 💬 Ask me about **AI, Backend Development, and Design Pattern in System**
 
 - 📫 You can contact me via: **[vuhoangtung187@gmail.com](mailto:vuhoangtung187@gmail.com)**
 
