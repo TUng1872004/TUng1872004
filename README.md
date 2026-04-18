@@ -21,10 +21,10 @@
 <!-- Backend -->
 <h4 align="left">Backend</h4>
 <p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <!-- Django -->
-    <img src="https://cdn.worldvectorlogo.com/logos/FastAPI.svg" width="40" alt="FastAPI" title="FastAPI"/>
-  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+  <!-- FastAPI -->
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" alt="FastAPI" title="FastAPI"/>
+</a>
   <a href="https://expressjs.com" target="_blank">
     <!-- Express -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" alt="Express" title="Express"/>
