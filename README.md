@@ -5,7 +5,7 @@
 </p>
 <h3 align="left"> About Me</h3>
 
-- 🔭 I’m currently working on **AI Engineer**
+- 🔭 My Profession is **AI Engineer**
 
 - 🤖 I’m have experience with both model training, finetuning and AI Intergration in Software
   
